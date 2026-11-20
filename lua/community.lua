@@ -5,7 +5,6 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
-  { import = "astrocommunity.colorscheme.everblush-nvim" },
-  { import = "astrocommunity.colorscheme.everforest" },
+  { import = "astrocommunity.colorscheme.citruszest-nvim" },
   -- ... import any community contributed plugins here
 }
